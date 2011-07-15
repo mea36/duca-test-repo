@@ -1,0 +1,363 @@
+TA
+v7
+r0
+t332374949.115127
+cCheck dependencies
+cProcessInfoPlistFile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/Info.plist A-Info.plist
+cCompileXIB /Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib
+cCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib
+cCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib
+cCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib
+cProcessPCH /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch.gch A_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/main.o /Users/melissaaaron/Documents/duca/2011/A/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/AAppDelegate.o /Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/RootViewController.o /Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/B.o /Users/melissaaaron/Documents/duca/2011/A/Classes/B.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.o /Users/melissaaaron/Documents/duca/2011/A/Classes/A.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A normal i386
+cGenerateDSYMFile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app.dSYM /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A
+cTouch /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/melissaaaron/Documents/duca/2011/A/A_Prefix.pch
+c000000004E1F4A610000000000000134
+t1310673505
+s308
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib
+c000000004E1F4A61000000000000444C
+t1310673505
+s17484
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/A.h
+c000000004E1F6C1300000000000000D2
+t1310682131
+s210
+i<UIKit/UIKit.h>
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/A.m
+c000000004E1F6BCE0000000000000625
+t1310682062
+s1573
+i"A.h"
+i"B.h"
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib
+c000000004E1F6C080000000000004465
+t1310682120
+s17509
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.h
+c000000004E1F4A6100000000000001C2
+t1310673505
+s450
+i<UIKit/UIKit.h>
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m
+c000000004E1F4A610000000000000A90
+t1310673505
+s2704
+i"AAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/B.h
+c000000004E1F6BF000000000000000D4
+t1310682096
+s212
+i<UIKit/UIKit.h>
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/B.m
+c000000004E1F6C130000000000000624
+t1310682131
+s1572
+i"B.h"
+i"A.h"
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib
+c000000004E1F6849000000000000183E
+t1310681161
+s6206
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.h
+c000000004E1F6C1300000000000000F3
+t1310682131
+s243
+i<UIKit/UIKit.h>
+
+N/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m
+c000000004E1F6C1300000000000010CB
+t1310682131
+s4299
+i"RootViewController.h"
+i"B.h"
+
+N/Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib
+c000000004E1F6B890000000000006113
+t1310681993
+s24851
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.LinkFileList
+c000000004E1F6C140000000000000245
+t1310682132
+s581
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.o
+t1310682148
+s38864
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/AAppDelegate.o
+t1310682148
+s52292
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/B.o
+t1310682148
+s38864
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/RootViewController.o
+t1310682148
+s40916
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/main.o
+t1310682148
+s6308
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app
+t1310682149
+s306
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app.dSYM
+t1310682149
+s102
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A
+t1310682148
+s19192
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A.nib
+t1310682137
+s1367
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/B.nib
+t1310682137
+s764
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/Info.plist
+t1310682132
+s567
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/MainWindow.nib
+t1310682136
+s1510
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/PkgInfo
+t1310682132
+s8
+
+N/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/RootViewController.nib
+t1310682136
+s979
+
+N/Users/melissaaaron/Documents/duca/2011/A/main.m
+c000000004E1F4A610000000000000164
+t1310673505
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch.gch
+t1310682146
+s15453392
+
+NA-Info.plist
+c000000004E1F4A61000000000000038D
+t1310673505
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332374931#332374932#0(0"0(0#1#0"8660349216#0"0#
+
+CCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.o /Users/melissaaaron/Documents/duca/2011/A/Classes/A.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374948.727443
+e332374948.842150
+r1
+xCompileC
+xbuild/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.o
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/A.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/melissaaaron/Documents/duca/2011/A/Classes/A.m332374948#332374948#0(0"0(0#0#53"/Users/melissaaaron/Documents/duca/2011/A/Classes/A.m8660112768#1829"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -include /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch -c /Users/melissaaaron/Documents/duca/2011/A/Classes/A.m -o /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.o0#
+
+CCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/AAppDelegate.o /Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374947.647130
+e332374948.570649
+r1
+xCompileC
+xbuild/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/AAppDelegate.o
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m332374947#332374948#0(0"0(0#0#64"/Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m8659404960#1851"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -include /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch -c /Users/melissaaaron/Documents/duca/2011/A/Classes/AAppDelegate.m -o /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/AAppDelegate.o0#
+
+CCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/B.o /Users/melissaaaron/Documents/duca/2011/A/Classes/B.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374948.570772
+e332374948.743691
+r1
+xCompileC
+xbuild/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/B.o
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/B.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/melissaaaron/Documents/duca/2011/A/Classes/B.m332374948#332374948#0(0"0(0#0#53"/Users/melissaaaron/Documents/duca/2011/A/Classes/B.m8652043840#1829"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -include /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch -c /Users/melissaaaron/Documents/duca/2011/A/Classes/B.m -o /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/B.o0#
+
+CCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/RootViewController.o /Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374948.526005
+e332374948.727327
+r1
+xCompileC
+xbuild/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/RootViewController.o
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m:164: warning: incomplete implementation of class 'RootViewController'
+o/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m:164: warning: method definition for '-gotoB' not found
+lSLF07#2@78"Compile /Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m332374948#332374948#0(267"/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m:164: warning: incomplete implementation of class 'RootViewController'/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m:164: warning: method definition for '-gotoB' not found2(22@55"Incomplete implementation of class 'RootViewController'332374948#0#141#0(6@70"/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m332374931#164#0#164#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-gotoB' not found332374948#141#126#0(6@70"/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m332374931#164#0#164#0#35"method definition for '*' not found0(0#0#70"/Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m8652415072#1863"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -include /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch -c /Users/melissaaaron/Documents/duca/2011/A/Classes/RootViewController.m -o /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/main.o /Users/melissaaaron/Documents/duca/2011/A/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374947.520630
+e332374948.525775
+r1
+xCompileC
+xbuild/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/main.o
+x/Users/melissaaaron/Documents/duca/2011/A/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/melissaaaron/Documents/duca/2011/A/main.m332374947#332374948#0(0"0(0#0#48"/Users/melissaaaron/Documents/duca/2011/A/main.m8659594528#1827"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -include /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch -c /Users/melissaaaron/Documents/duca/2011/A/main.m -o /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib
+s332374932.196072
+e332374936.895748
+r1
+xCompileXIB
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib
+lSLF07#2@44"CompileXIB Classes/../RootViewController.xib332374932#332374936#0(0"0(0#0#75"/Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib8653429120#600"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/RootViewController.nib /Users/melissaaaron/Documents/duca/2011/A/Classes/../RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib
+s332374936.900632
+e332374937.764310
+r1
+xCompileXIB
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib
+lSLF07#2@24"CompileXIB Classes/A.xib332374936#332374937#0(0"0(0#0#55"/Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib8661363424#563"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A.nib /Users/melissaaaron/Documents/duca/2011/A/Classes/A.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib
+s332374936.895919
+e332374937.743987
+r1
+xCompileXIB
+x/Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib
+lSLF07#2@24"CompileXIB Classes/B.xib332374936#332374937#0(0"0(0#0#55"/Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib8652382656#563"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/B.nib /Users/melissaaaron/Documents/duca/2011/A/Classes/B.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib
+s332374932.195191
+e332374936.900537
+r1
+xCompileXIB
+x/Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332374932#332374936#0(0"0(0#0#56"/Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib8658147648#573"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/MainWindow.nib /Users/melissaaaron/Documents/duca/2011/A/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app.dSYM /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A
+s332374948.980954
+e332374949.083882
+r1
+xGenerateDSYMFile
+x/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app.dSYM
+x/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A
+lSLF07#2@91"GenerateDSYMFile build/Debug-iphonesimulator/A.app.dSYM build/Debug-iphonesimulator/A.app/A332374948#332374949#0(0"0(0#0#77"/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A8660865888#374"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A -o /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app.dSYM0#
+
+CLd /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A normal i386
+s332374948.842255
+e332374948.980843
+r1
+xLd
+x/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A
+xnormal
+xi386
+lSLF07#2@82"Link /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A332374948#332374948#0(0"0(0#0#0"8659749824#885"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -filelist /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/Objects-normal/i386/A.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/A0#
+
+CProcessInfoPlistFile /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/Info.plist A-Info.plist
+s332374932.133563
+e332374932.195086
+r1
+xProcessInfoPlistFile
+x/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/Info.plist
+xA-Info.plist
+lSLF07#2@20"Process A-Info.plist332374932#332374932#0(0"0(0#0#54"/Users/melissaaaron/Documents/duca/2011/A/A-Info.plist8660033920#470"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility A-Info.plist -genpkginfo /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app/Info.plist0#
+
+CProcessPCH /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch.gch A_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332374937.764451
+e332374947.520220
+r1
+xProcessPCH
+x/var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch.gch
+xA_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@23"Precompile A_Prefix.pch332374937#332374947#0(0"0(0#0#54"/Users/melissaaaron/Documents/duca/2011/A/A_Prefix.pch8633389152#1722"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-generated-files.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-own-target-headers.hmap -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-all-target-headers.hmap -iquote /Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/A-project-headers.hmap -F/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator -I/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/include -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources/i386 -I/Users/melissaaaron/Documents/duca/2011/A/build/A.build/Debug-iphonesimulator/A.build/DerivedSources -c /Users/melissaaaron/Documents/duca/2011/A/A_Prefix.pch -o /var/folders/UM/UMxdYhODGyOEkvzsRqfsJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/A_Prefix-eycbvgwzqndmetejporwyoqmhmzr/A_Prefix.pch.gch0#
+
+CTouch /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app
+s332374949.084173
+e332374949.115067
+r1
+xTouch
+x/Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app
+lSLF07#2@81"Touch /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app332374949#332374949#0(0"0(0#0#0"8659719968#278"    cd /Users/melissaaaron/Documents/duca/2011/A    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/melissaaaron/Documents/duca/2011/A/build/Debug-iphonesimulator/A.app0#
+
