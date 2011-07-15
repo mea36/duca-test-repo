@@ -7,7 +7,6 @@
 //
 
 #import "AAppDelegate.h"
-#import "RootViewController.h"
 
 
 @implementation AAppDelegate
