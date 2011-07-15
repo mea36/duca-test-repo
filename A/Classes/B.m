@@ -40,6 +40,7 @@
 	A *aView = [[A alloc] initWithNibName:@"A" bundle:nil];
 	[self.navigationController pushViewController:aView animated:YES];
 	[aView release];
+	//o gosh a change!
 }
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
